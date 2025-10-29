@@ -1,0 +1,8 @@
+
+{
+  "category": "Sushi",
+  "menu_items": [
+    { "short_name": "C1", "name": "Salmon Roll", "description": "Fresh salmon and rice.", "price_small": 6.5, "price_large": 9.5 },
+    { "short_name": "C2", "name": "Tuna Nigiri", "description": "Sliced tuna on rice.", "price_small": 5.0, "price_large": 8.0 }
+  ]
+}

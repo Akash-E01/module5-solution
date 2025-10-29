@@ -1,0 +1,8 @@
+
+{
+  "category": "Beef",
+  "menu_items": [
+    { "short_name": "B1", "name": "Beef Steak", "description": "Seared to perfection.", "price_small": 14.99, "price_large": 19.99 },
+    { "short_name": "B2", "name": "Beef Stew", "description": "Comforting slow-cooked stew.", "price_small": 10.0, "price_large": 14.0 }
+  ]
+}

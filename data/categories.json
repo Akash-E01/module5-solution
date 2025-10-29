@@ -1,0 +1,7 @@
+
+[
+  { "name": "Chicken", "short_name": "A" },
+  { "name": "Beef", "short_name": "B" },
+  { "name": "Sushi", "short_name": "C" },
+  { "name": "Vegetarian", "short_name": "D" }
+]

@@ -1,0 +1,8 @@
+
+{
+  "category": "Vegetarian",
+  "menu_items": [
+    { "short_name": "D1", "name": "Veggie Wrap", "description": "Crispy veggies in a wrap.", "price_small": 5.5, "price_large": 7.5 },
+    { "short_name": "D2", "name": "Grilled Paneer", "description": "Marinated paneer with spices.", "price_small": 6.0, "price_large": 9.0 }
+  ]
+}

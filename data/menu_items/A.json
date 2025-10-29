@@ -1,0 +1,8 @@
+
+{
+  "category": "Chicken",
+  "menu_items": [
+    { "short_name": "A1", "name": "Grilled Chicken", "description": "Juicy grilled chicken with herbs.", "price_small": 8.99, "price_large": 12.99 },
+    { "short_name": "A2", "name": "Chicken Curry", "description": "Slow-cooked curry with spices.", "price_small": 7.5, "price_large": 11.0 }
+  ]
+}
